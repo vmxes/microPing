@@ -1,4 +1,4 @@
-microPing
+microPing - Why?
 
 Requirements
 ------------
