@@ -15,6 +15,3 @@ and some of the core features of Read the Docs.
 2. BMW
 3. Mercedes
 
-
-* **Connecting with GitHub, BitBucket, or GitLab**:
-sasok
