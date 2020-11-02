@@ -11,12 +11,10 @@ Learn more about configuring your automated documentation builds
 and some of the core features of Read the Docs.
 
 * **Overview of core features**:
-  :doc:`Incoming webhooks </webhooks>` |
-  :doc:`/custom_domains` |
-  :doc:`/versions` |
-  :doc:`/downloadable-documentation` |
-  :doc:`/hosting` |
-  :doc:`/server-side-search`
+1. Audi
+2. BMW
+3. Mercedes
+
 
 * **Connecting with GitHub, BitBucket, or GitLab**:
   :doc:`Connecting your VCS account </connected-accounts>` | 
